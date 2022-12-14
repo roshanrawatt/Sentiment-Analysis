@@ -7,12 +7,12 @@ Sentiment analysis is the process of using natural language processing, text ana
 # Steps Performed
 
 
-##Performing Data Visualization
-# # Data Exploration
-# # Plot the WordCloud
-# #Text Data Cleaning
-# #Creating a pipeline to remove punctuations and stopwords and perform Counter Vectorization
-# #Performing Count Vectorizer
-# # Train and Test Naive Bayes Classifier Model
-# #Performing Logistic Regression
+# Performing Data Visualization
+# Data Exploration
+# Plot the WordCloud
+# Text Data Cleaning
+# Creating a pipeline to remove punctuations and stopwords and perform Counter Vectorization
+# Performing Count Vectorizer
+# Train and Test Naive Bayes Classifier Model
+# Performing Logistic Regression
 
