@@ -4,4 +4,15 @@ Sentiment analysis is the process of using natural language processing, text ana
 
 
 
-Performing Sentiment analysis using real reviews data for Amazon Echo.
+# Steps Performed
+
+
+# #Performing Data Visualization
+# # Data Exploration
+# # Plot the WordCloud
+# #Text Data Cleaning
+# #Creating a pipeline to remove punctuations and stopwords and perform Counter Vectorization
+# #Performing Count Vectorizer
+# # Train and Test Naive Bayes Classifier Model
+# #Performing Logistic Regression
+
